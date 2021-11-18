@@ -1,0 +1,38 @@
+Images
+1.aws instances
+2.jenkins master
+3.jenkins slave1
+4.jenkins slave2
+5.master slave setup
+6.github repository
+7.slave1 test
+8.config test 1
+9.config test 2
+10.config test 3
+11.slave 1 build success
+12.working website on test
+13.container removed command
+14.project test
+15.removed container
+16.building arbitrary container
+17.new build
+18.new successful build
+19.after removing container and build successful
+20.arbitrary test job
+21.config prod 1
+22.config prod 2
+23.config prod 3
+24.before prod build
+25.prod build success 1
+26.prod build success 2
+27.prod build success 3
+28.after prod build
+29.project prod
+30.configuring post build test
+31.dashboard
+32.adding pipeline
+33.build pipeline
+34.after running pipeline
+35.configuring github webhook on test
+36.adding webhook
+37.webhook
